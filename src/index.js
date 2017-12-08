@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-
 class Square extends React.Component {
   render() {
     return (
@@ -10,7 +9,7 @@ class Square extends React.Component {
         {/* TODO */}
       </button>
     );
-  }a
+  }
 }
 
 class Board extends React.Component {
